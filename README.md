@@ -1,6 +1,8 @@
 # BookMyCar
 ## Available Scripts
 
+curl -X GET "https://me-api-sqdk.onrender.com/api/projects?skill=Node"
+
 In the project directory, you can run:
 
 ### `npm start`
